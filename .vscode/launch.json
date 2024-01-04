@@ -1,0 +1,31 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "PrintAlgorithm_41aafdb7",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "Ch1p2",
+            "request": "launch",
+            "mainClass": "Ch1p2",
+            "projectName": "PrintAlgorithm_41aafdb7",
+            "console": "integratedTerminal"
+        }
+    ]
+}
